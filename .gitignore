@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+*.a
+*.o
+makefile
+config.h
+xnfsat
+xnfsat_parallel
